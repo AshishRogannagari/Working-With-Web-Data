@@ -25,5 +25,3 @@ Working with Web Data.
   * IPython.display
   * requests
   * BeautifulSoup
-    
- This is ashish   
